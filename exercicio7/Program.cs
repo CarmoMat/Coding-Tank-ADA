@@ -4,6 +4,7 @@ class exercicio7
 {
     static void Main(String[] args)
     {
+        //teste 
         int codigo;
         string produto;
         int quantidade;
